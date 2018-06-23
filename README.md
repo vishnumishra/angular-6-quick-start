@@ -8,6 +8,15 @@ It include the angular material and pwa so you don't needs to setup angular mate
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Screens:
+### Mobile:
+
+![alt text](./screen_images/navBar.png)![alt text](./screen_images/mobileDashboard.png)![alt text](./screen_images/mobileProfile.png)
+
+Desktop:
+
+<img src="./screen_images/dashboard.png" width="500">
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
